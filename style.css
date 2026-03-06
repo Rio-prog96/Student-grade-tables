@@ -1,0 +1,61 @@
+
+body{
+font-family: Arial;
+background-color: lightblue;
+margin:0;
+}
+
+header{
+background-color: navy;
+color: white;
+text-align: center;
+padding: 20px;
+}
+
+main{
+background-color: white;
+width: 70%;
+margin: auto;
+padding: 20px;
+}
+
+h2{
+color: darkblue;
+}
+
+table{
+width: 100%;
+border-collapse: collapse;
+margin-top: 20px;
+}
+
+thead{
+background-color: blue;
+color: white;
+}
+
+tbody{
+background-color: lightgray;
+}
+
+th, td{
+padding: 10px;
+text-align: center;
+border: 1px solid black;
+}
+
+tfoot{
+background-color: purple;
+color: white;
+font-weight: bold;
+}
+
+footer{
+background-color: navy;
+color: white;
+text-align: center;
+padding: 10px;
+margin-top: 20px;
+}
+
+
